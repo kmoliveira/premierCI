@@ -19,3 +19,4 @@ Feature: feature pour tester la functionalite de connexion
 				| utilisateur  | login       |	mdp 				  |
  	      | kathia			 | kathia 		 |  r402 					|
   			| olivier 		 | olivier 		 |  r402 					|
+  			| Patrick 		 | Patrick  	 |  r402 					|
